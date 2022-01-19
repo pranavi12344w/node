@@ -1,4 +1,4 @@
-lear
+
 const log = require('./logger.js');
 console.log(log);
 log("this is the message");
@@ -6,6 +6,7 @@ console.log(__filename);
 console.log(__dirname);
 
 // hello worlda
+// pranavi
 
 
 /*let logger = require('./logger')
